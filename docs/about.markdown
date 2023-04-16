@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Berlin-based graphic designer and art director with over 6 years of industry experience, currently pursuing my Communication Design Master's in Berlin. My approach to design is innovative and strategic, blending creative concepts with a deep understanding of design principles. Let's connect and discuss how I can contribute to your creative endeavors. Feel free to reach out for potential collaborations, freelance opportunities, or any creative projects you have in mind.
